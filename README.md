@@ -87,6 +87,8 @@ A user was identified with excessive privileges outside of their assigned role.
 - Removed unnecessary access
 - Revalidated group memberships
 
+  <img width="1887" height="1017" alt="removing user from group" src="https://github.com/user-attachments/assets/0eade3c6-1749-4782-8bb7-46bc6d8d1e9e" />
+
 This demonstrates least privilege and access governance principles.
 
 ---
