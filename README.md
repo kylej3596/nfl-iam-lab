@@ -56,6 +56,8 @@ Contains coaching staff.
 
 Contains offensive team members.
 
+<img width="1896" height="1056" alt="Offensive players group" src="https://github.com/user-attachments/assets/87897c61-6edc-419f-bc7b-0bc55edf68db" />
+
 ### Eagles-Defensive Players
 
 Contains defensive team members.
