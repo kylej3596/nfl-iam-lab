@@ -52,6 +52,8 @@ Contains executive leadership and management.
 
 Contains coaching staff.
 
+<img width="1876" height="1068" alt="Coaches Group" src="https://github.com/user-attachments/assets/f80a876f-1d61-4de4-9330-73b97d596e78" />
+
 ### Eagles-Offensive Players
 
 Contains offensive team members.
