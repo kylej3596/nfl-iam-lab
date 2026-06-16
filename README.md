@@ -44,6 +44,8 @@ NFL
 
 Responsible for overall administration.
 
+<img width="1878" height="1062" alt="League admin group" src="https://github.com/user-attachments/assets/c4a04c0d-9534-465a-81c4-930d36bf5751" />
+
 ### Eagles-Management
 
 Contains executive leadership and management.
