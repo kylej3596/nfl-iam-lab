@@ -33,6 +33,10 @@ NFL
 ├── Eagles Offensive Players
 └── Eagles Defensive Players
 
+<img width="1897" height="1067" alt="Defensive player group" src="https://github.com/user-attachments/assets/1e4e5017-56d6-4dc1-ae65-097698946b33" />
+
+
+
 ---
 
 ## Security Groups Created
