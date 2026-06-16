@@ -79,6 +79,8 @@ Simulated account deprovisioning and removal of access.
 
 A user was identified with excessive privileges outside of their assigned role.
 
+<img width="1855" height="976" alt="user added to group they should not be in" src="https://github.com/user-attachments/assets/76afc15c-4ef3-4a8d-8967-869850ebce67" />
+
 ### Remediation
 
 - Reviewed permissions
