@@ -50,6 +50,8 @@ Responsible for overall administration.
 
 Contains executive leadership and management.
 
+<img width="1870" height="1097" alt="Eagles management group" src="https://github.com/user-attachments/assets/83f4ebf3-6ca9-483c-9ca9-9646aa6e39a1" />
+
 ### Eagles-Coaches
 
 Contains coaching staff.
