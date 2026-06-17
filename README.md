@@ -78,6 +78,10 @@ Contains defensive team members.
 
 Created new user accounts and assigned appropriate group memberships.
 
+<img width="1881" height="1013" alt="New hire" src="https://github.com/user-attachments/assets/7ae69d5b-52f8-4dbb-a880-27b7c9e04971" />
+
+<img width="1825" height="1021" alt="New hired added to group" src="https://github.com/user-attachments/assets/ce4dc65e-e6d4-4e9f-b504-f75fe1e977bd" />
+
 ### Mover
 
 Simulated role changes by modifying group memberships.
