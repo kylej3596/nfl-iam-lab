@@ -123,6 +123,37 @@ This demonstrates least privilege and access governance principles.
 
 ---
 
+## Lessons Learned
+
+This project was both enjoyable and valuable because it allowed me to combine my interest in football with hands-on experience in Identity and Access Management (IAM). Using Microsoft Entra ID, I designed an NFL-themed environment that helped me better understand user provisioning, security group management, role-based access control (RBAC), and identity lifecycle management.
+
+One challenge I encountered was working within the limitations of the free Azure and Entra ID licensing tiers. While some advanced IAM features were unavailable, I adapted by focusing on core identity governance concepts and documenting how those features would be implemented in an enterprise environment.
+
+Through this project, I strengthened my understanding of how organizations manage user access, enforce least-privilege principles, and maintain secure identity practices.
+
+### Key Skills Developed
+
+- Microsoft Entra ID Administration
+- User Provisioning and Deprovisioning
+- Security Group Management
+- Role-Based Access Control (RBAC)
+- Identity Governance
+- Access Reviews
+- User Lifecycle Management
+- Least Privilege Principles
+
+### Future Enhancements
+
+As I continue my IAM journey, I plan to expand this lab by incorporating:
+
+- Enterprise Applications
+- Single Sign-On (SSO) Integrations
+- Automated Provisioning Workflows
+- Multi-Factor Authentication (MFA)
+- Conditional Access Policies
+- Identity Governance Controls
+
+These enhancements will allow me to further develop and demonstrate the skills required for IAM Analyst and IAM Engineer roles.
 ## Author
 
 Kyle Jones
