@@ -1,1 +1,7 @@
+This project was both enjoyable and valuable because it allowed me to combine my interest in football with hands-on experience in Identity and Access Management (IAM). Using Microsoft Entra ID, I designed an NFL-themed environment that helped me better understand user provisioning, security group management, role-based access control (RBAC), and identity lifecycle management.
+
+One challenge I encountered was working within the limitations of the free Azure and Entra ID licensing tiers. While some advanced IAM features were unavailable, I adapted by focusing on core identity governance concepts and documenting how those features would be implemented in an enterprise environment.
+
+Through this project, I strengthened my understanding of how organizations manage user access, enforce least-privilege principles, and maintain secure identity practices. As I continue my IAM journey, I plan to expand this lab by incorporating enterprise applications, single sign-on (SSO) integrations, automated provisioning workflows, and additional identity governance controls. These enhancements will allow me to further develop and demonstrate the skills required for IAM Analyst and IAM Engineer roles.
+
 
